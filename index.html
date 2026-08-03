@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Teresa 的 Clinical AI 求职申请、岗位评估与长期职业路径追踪。">
+  <meta property="og:title" content="Teresa · Clinical AI Career Tracker">
+  <meta property="og:description" content="真实申请进度、岗位取舍、待遇和下一步。">
+  <meta property="og:image" content="./assets/og.png">
+  <title>Teresa · Clinical AI Career Tracker</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="回到顶部"><span>T</span><b>Teresa</b></a>
+    <nav aria-label="页面导航">
+      <a href="#pipeline">申请管道</a>
+      <a href="#strategy">职业价值</a>
+      <a href="#rules">追踪规则</a>
+    </nav>
+    <p class="privacy">公开脱敏版</p>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">RN × COMPUTER SCIENCE × APPLIED AI</p>
+        <h1>每一次申请，都要让 Teresa<br><em>更接近 Healthcare AI Builder</em></h1>
+        <p class="lede">这里不堆岗位链接。每个机会都会回答五件事：做什么、待遇如何、适不适合、能积累什么、下一步是什么。</p>
+      </div>
+      <aside class="north-star">
+        <p>NORTH STAR</p>
+        <h2>Applied AI Engineer</h2>
+        <strong>Healthcare · LLM Systems</strong>
+        <dl>
+          <div><dt>优先地点</dt><dd>Remote / Washington</dd></div>
+          <div><dt>当前策略</dt><dd>边投桥梁岗 · 边做旗舰项目</dd></div>
+        </dl>
+      </aside>
+    </section>
+
+    <section class="snapshot" aria-label="当前申请概览">
+      <div><strong id="trackedCount">—</strong><span>追踪岗位</span></div>
+      <div><strong id="appliedCount">—</strong><span>已正式提交</span></div>
+      <div><strong id="actionCount">—</strong><span>等待 Teresa</span></div>
+      <div><strong id="liveCount">—</strong><span>官方页面可访问</span></div>
+      <p>最近扫描 <b id="scanTime">读取中…</b></p>
+    </section>
+
+    <section class="pipeline" id="pipeline">
+      <div class="section-head">
+        <div><p class="eyebrow">APPLICATION PIPELINE</p><h2>申请与目标岗位</h2></div>
+        <div class="filters" role="group" aria-label="筛选岗位">
+          <button class="active" data-filter="all">全部</button>
+          <button data-filter="now">现在可做</button>
+          <button data-filter="target">目标岗位</button>
+          <button data-filter="applied">已申请</button>
+        </div>
+      </div>
+      <div class="truth-banner"><b>事实规则</b><span>填过表但没点 Submit，不算已申请；招聘页打不开，不算仍在招；待遇未披露，不猜。</span></div>
+      <div id="jobList" class="job-list" aria-live="polite"></div>
+    </section>
+
+    <section class="strategy" id="strategy">
+      <div class="section-head"><div><p class="eyebrow">CAREER COMPOUNDING</p><h2>为什么这些岗位值得投</h2></div></div>
+      <div class="ladder">
+        <article><span>01 · 现在</span><h3>临床 AI 评估</h3><p>把 RN 判断力变成第一段可验证的 LLM 训练、评估和安全审查经验。</p><b>证据：真实任务记录 + 评价 rubric</b></article>
+        <article><span>02 · 下一站</span><h3>Clinical AI / Solutions</h3><p>进入医疗 AI 产品团队，学习需求转译、工作流、数据和跨职能交付。</p><b>证据：上线项目 + 客户/临床协作</b></article>
+        <article><span>03 · 目标</span><h3>Applied AI Engineer</h3><p>端到端构建、评估、部署并监控安全可靠的 Healthcare LLM 系统。</p><b>证据：生产 Python + Evals + RAG/Agents</b></article>
+      </div>
+    </section>
+
+    <section class="rules" id="rules">
+      <div><p class="eyebrow">DAILY OPERATING SYSTEM</p><h2>每天扫描，谨慎推进</h2></div>
+      <ol>
+        <li><b>核验</b><span>只看公司官方招聘页，并记录最近核验时间。</span></li>
+        <li><b>匹配</b><span>用 RN、临床工作流和 MSCS 评估优势，不伪造生产经验。</span></li>
+        <li><b>补问</b><span>LinkedIn、工作许可、合同与声明题没有把握时暂停。</span></li>
+        <li><b>提交</b><span>真正完成 Submit 后，才把状态改成“已申请”。</span></li>
+        <li><b>跟进</b><span>记录测评、面试、拒信和 5–7 天后的 follow-up。</span></li>
+      </ol>
+      <p class="scan-note">自动任务每天检查已知官方链接，并从选定的官方招聘板发现新岗位。新发现先进入“待人工分析”，不会自动替 Teresa 申请。</p>
+    </section>
+  </main>
+
+  <footer><span>Teresa Clinical AI Career Tracker</span><p>公开页面不保存邮箱、电话、执照号码或申请问卷答案。</p></footer>
+  <script src="./app.js" defer></script>
+</body>
+</html>

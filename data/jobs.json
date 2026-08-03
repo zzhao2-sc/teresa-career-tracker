@@ -1,0 +1,171 @@
+{
+  "lastScan": "2026-08-03T02:35:41.564Z",
+  "jobs": [
+    {
+      "id": "meridial-rn-ai-trainer-4688937101",
+      "company": "Meridial",
+      "title": "Registered Nurse — Freelance AI Trainer",
+      "location": "Worldwide · Remote",
+      "employmentType": "Contract",
+      "compensation": "$6–$65 / hour",
+      "applicationStatus": "待补信息",
+      "lane": "now",
+      "fitScore": 86,
+      "fitLabel": "高匹配桥梁岗",
+      "roleSummary": "用护理知识挑战、评估并改进大语言模型的临床回答。",
+      "advantages": [
+        "RN 临床经验直接构成核心资格",
+        "远程、灵活，适合保留白天工作",
+        "能形成第一段真实 LLM evaluation 证据"
+      ],
+      "limitations": [
+        "自由职业合同，不保证持续工时",
+        "薪资跨度很大",
+        "不等同于生产软件工程经验"
+      ],
+      "careerValue": "最直接地把 Teresa 的临床判断力转换成 AI 训练、评价标准、错误分类和安全审查经历。之后要把任务方法沉淀为可展示的 eval rubric，而不是只写“做过标注”。",
+      "nextAction": "补充 LinkedIn；确认合同身份与最终提交授权。表格已填写，但尚未提交。",
+      "needsTeresa": true,
+      "live": true,
+      "lastVerified": "2026-08-03T02:35:41.564Z",
+      "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4688937101?gh_src=7nevqwp2teu"
+    },
+    {
+      "id": "prolific-rn-ai-training-4869847101",
+      "company": "Prolific",
+      "title": "Registered Nurses — AI Training",
+      "location": "Remote",
+      "employmentType": "Self-employed participant",
+      "compensation": "Up to $65 / hour per task",
+      "applicationStatus": "新发现",
+      "lane": "now",
+      "fitScore": 82,
+      "fitLabel": "高匹配入门岗",
+      "roleSummary": "评估临床场景中的模型回答，比较答案并撰写更好的示例和理由。",
+      "advantages": [
+        "任务内容与临床 LLM eval 高度贴合",
+        "居家、时间灵活",
+        "可以积累模型比较和 written rationale 经验"
+      ],
+      "limitations": [
+        "不是全职岗位，任务量不保证",
+        "需要 PayPal 并自行申报收入",
+        "需要通过身份与技能筛选"
+      ],
+      "careerValue": "比普通数据标注更有价值，因为工作包括准确性、安全性、临床适当性和推理质量评估。应保存不含机密内容的过程指标和反思，转化为面试故事。",
+      "nextAction": "确认所在地/工作身份验证、PayPal 与 self-employed 条款，再决定是否提交。",
+      "needsTeresa": true,
+      "live": true,
+      "lastVerified": "2026-08-03T02:35:41.564Z",
+      "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4869847101"
+    },
+    {
+      "id": "ascertain-applied-ai-engineer-e2b09339",
+      "company": "Ascertain",
+      "title": "Applied AI Engineer",
+      "location": "NYC or Remote",
+      "employmentType": "Full-time",
+      "compensation": "$130K–$175K + equity",
+      "applicationStatus": "目标岗位",
+      "lane": "target",
+      "fitScore": 42,
+      "fitLabel": "能力桥接目标",
+      "roleSummary": "构建医疗 prior authorization 场景的语音 agent、LLM pipeline、评估与生产监控。",
+      "advantages": [
+        "医疗工作流知识是差异化优势",
+        "远程友好",
+        "技术内容与 Applied AI 长期目标高度一致"
+      ],
+      "limitations": [
+        "要求 4+ 年生产软件工程经验",
+        "要求 2+ 年专业 Python 与生产 LLM/RAG",
+        "Teresa 当前缺少 production ownership 证据"
+      ],
+      "careerValue": "这是旗舰项目的需求清单：Python API、agent/RAG、eval、observability、SQL/NoSQL 和生产部署。现在主要用于反向设计项目，不建议当作主要投递量。",
+      "nextAction": "完成 Clinical Note Quality Evaluator 的 API、eval harness、部署与监控后再重新评分。",
+      "needsTeresa": false,
+      "live": true,
+      "lastVerified": "2026-08-03T02:35:41.564Z",
+      "url": "https://jobs.ashbyhq.com/ascertain/e2b09339-b7cb-42d1-a666-68908329ceb8"
+    },
+    {
+      "id": "curai-senior-applied-ai-a5e85c45",
+      "company": "Curai Health",
+      "title": "Senior Applied AI Engineer",
+      "location": "United States · 100% Remote",
+      "employmentType": "Full-time · W2",
+      "compensation": "$175K–$200K + benefits",
+      "applicationStatus": "长期目标",
+      "lane": "target",
+      "fitScore": 36,
+      "fitLabel": "冲刺参考岗",
+      "roleSummary": "端到端设计、评估和生产化患者与临床人员使用的 ML/LLM 系统。",
+      "advantages": [
+        "100% remote",
+        "临床 NLP 与医疗经验属于加分项",
+        "岗位完整展示 Healthcare Applied AI 能力模型"
+      ],
+      "limitations": [
+        "要求至少 3 年工程与 1 年生产 ML/GenAI",
+        "需要可靠、测试充分的 Python 工程能力",
+        "当前直接申请竞争力不足"
+      ],
+      "careerValue": "用它校准终局能力：RAG、fine-tuning、eval、数据管道、guardrails、human-in-the-loop 与真实产品影响。Teresa 的 RN 背景只有与强工程证据组合后才会放大。",
+      "nextAction": "作为 12–18 个月目标保留；先通过桥梁岗和公开旗舰项目建立可验证工程经历。",
+      "needsTeresa": false,
+      "live": true,
+      "lastVerified": "2026-08-03T02:35:41.564Z",
+      "url": "https://jobs.lever.co/curai/a5e85c45-912f-425a-8955-a52153c3d077"
+    },
+    {
+      "id": "discovered-aHR0cHM6Ly9qb2It",
+      "company": "Prolific",
+      "title": "Registered Nurses - AI Training - Seattle, USA",
+      "location": "Remote",
+      "employmentType": "待核验",
+      "compensation": "未披露 / 待核验",
+      "applicationStatus": "新发现",
+      "lane": "now",
+      "fitScore": 50,
+      "fitLabel": "待人工分析",
+      "roleSummary": "每日官方招聘板扫描发现；尚未完成 Teresa 专属匹配分析。",
+      "advantages": [
+        "标题和描述同时包含医疗/临床与 AI 关键词"
+      ],
+      "limitations": [
+        "尚未人工复核资格、待遇和地点"
+      ],
+      "careerValue": "完成岗位全文核验后再判断；目前不自动申请。",
+      "nextAction": "人工打开官方页面，确认仍在招聘并完成专属分析。",
+      "needsTeresa": false,
+      "live": true,
+      "lastVerified": "2026-08-03T02:35:41.564Z",
+      "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4855836101"
+    },
+    {
+      "id": "discovered-aHR0cHM6Ly9qb2Jz",
+      "company": "Curai Health",
+      "title": "Clinical Informaticist / Clinical AI Specialist",
+      "location": "Remote",
+      "employmentType": "待核验",
+      "compensation": "未披露 / 待核验",
+      "applicationStatus": "新发现",
+      "lane": "now",
+      "fitScore": 50,
+      "fitLabel": "待人工分析",
+      "roleSummary": "每日官方招聘板扫描发现；尚未完成 Teresa 专属匹配分析。",
+      "advantages": [
+        "标题和描述同时包含医疗/临床与 AI 关键词"
+      ],
+      "limitations": [
+        "尚未人工复核资格、待遇和地点"
+      ],
+      "careerValue": "完成岗位全文核验后再判断；目前不自动申请。",
+      "nextAction": "人工打开官方页面，确认仍在招聘并完成专属分析。",
+      "needsTeresa": false,
+      "live": true,
+      "lastVerified": "2026-08-03T02:35:41.564Z",
+      "url": "https://jobs.lever.co/curai/7d811a2b-31b8-453f-94db-ff456ffd0376"
+    }
+  ]
+}
