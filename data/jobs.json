@@ -8,7 +8,7 @@
       "location": "Worldwide · Remote",
       "employmentType": "Contract",
       "compensation": "$6–$65 / hour",
-      "applicationStatus": "待补信息",
+      "applicationStatus": "已申请",
       "lane": "now",
       "fitScore": 86,
       "fitLabel": "高匹配桥梁岗",
@@ -24,8 +24,9 @@
         "不等同于生产软件工程经验"
       ],
       "careerValue": "最直接地把 Teresa 的临床判断力转换成 AI 训练、评价标准、错误分类和安全审查经历。之后要把任务方法沉淀为可展示的 eval rubric，而不是只写“做过标注”。",
-      "nextAction": "补充 LinkedIn；确认合同身份与最终提交授权。表格已填写，但尚未提交。",
-      "needsTeresa": true,
+      "nextAction": "已于 2026-08-02 正式提交；等待 Greenhouse/Meridial 确认邮件、测评或后续联系。",
+      "needsTeresa": false,
+      "appliedAt": "2026-08-03T04:33:28Z",
       "live": true,
       "lastVerified": "2026-08-03T02:37:34.060Z",
       "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4688937101?gh_src=7nevqwp2teu"
