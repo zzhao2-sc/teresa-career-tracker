@@ -1,5 +1,5 @@
 {
-  "lastScan": "2026-08-12T15:57:48.045Z",
+  "lastScan": "2026-08-13T15:57:25.080Z",
   "jobs": [
     {
       "id": "meridial-rn-ai-trainer-4688937101",
@@ -28,7 +28,7 @@
       "needsTeresa": false,
       "appliedAt": "2026-08-03T04:33:28Z",
       "live": true,
-      "lastVerified": "2026-08-12T15:57:48.045Z",
+      "lastVerified": "2026-08-13T15:57:25.080Z",
       "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4688937101?gh_src=7nevqwp2teu"
     },
     {
@@ -57,7 +57,7 @@
       "nextAction": "确认所在地/工作身份验证、PayPal 与 self-employed 条款，再决定是否提交。",
       "needsTeresa": true,
       "live": true,
-      "lastVerified": "2026-08-12T15:57:48.045Z",
+      "lastVerified": "2026-08-13T15:57:25.080Z",
       "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4869847101"
     },
     {
@@ -86,7 +86,7 @@
       "nextAction": "完成 Clinical Note Quality Evaluator 的 API、eval harness、部署与监控后再重新评分。",
       "needsTeresa": false,
       "live": true,
-      "lastVerified": "2026-08-12T15:57:48.045Z",
+      "lastVerified": "2026-08-13T15:57:25.080Z",
       "url": "https://jobs.ashbyhq.com/ascertain/e2b09339-b7cb-42d1-a666-68908329ceb8"
     },
     {
@@ -115,7 +115,7 @@
       "nextAction": "作为 12–18 个月目标保留；先通过桥梁岗和公开旗舰项目建立可验证工程经历。",
       "needsTeresa": false,
       "live": true,
-      "lastVerified": "2026-08-12T15:57:48.045Z",
+      "lastVerified": "2026-08-13T15:57:25.080Z",
       "url": "https://jobs.lever.co/curai/a5e85c45-912f-425a-8955-a52153c3d077"
     },
     {
@@ -140,7 +140,7 @@
       "nextAction": "人工打开官方页面，确认仍在招聘并完成专属分析。",
       "needsTeresa": false,
       "live": true,
-      "lastVerified": "2026-08-12T15:57:48.045Z",
+      "lastVerified": "2026-08-13T15:57:25.080Z",
       "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4855836101"
     },
     {
@@ -165,7 +165,7 @@
       "nextAction": "人工打开官方页面，确认仍在招聘并完成专属分析。",
       "needsTeresa": false,
       "live": true,
-      "lastVerified": "2026-08-12T15:57:48.045Z",
+      "lastVerified": "2026-08-13T15:57:25.080Z",
       "url": "https://jobs.lever.co/curai/7d811a2b-31b8-453f-94db-ff456ffd0376"
     }
   ]
