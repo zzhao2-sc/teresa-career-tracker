@@ -1,5 +1,5 @@
 {
-  "lastScan": "2026-10-28T20:03:53.431Z",
+  "lastScan": "2026-10-29T20:03:51.997Z",
   "jobs": [
     {
       "id": "meridial-rn-ai-trainer-4688937101",
@@ -28,7 +28,7 @@
       "needsTeresa": false,
       "appliedAt": "2026-08-03T04:33:28Z",
       "live": true,
-      "lastVerified": "2026-10-28T20:03:53.431Z",
+      "lastVerified": "2026-10-29T20:03:51.997Z",
       "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4688937101?gh_src=7nevqwp2teu"
     },
     {
@@ -57,7 +57,7 @@
       "nextAction": "确认所在地/工作身份验证、PayPal 与 self-employed 条款，再决定是否提交。",
       "needsTeresa": true,
       "live": true,
-      "lastVerified": "2026-10-28T20:03:53.431Z",
+      "lastVerified": "2026-10-29T20:03:51.997Z",
       "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4869847101"
     },
     {
@@ -86,7 +86,7 @@
       "nextAction": "完成 Clinical Note Quality Evaluator 的 API、eval harness、部署与监控后再重新评分。",
       "needsTeresa": false,
       "live": false,
-      "lastVerified": "2026-10-28T20:03:53.431Z",
+      "lastVerified": "2026-10-29T20:03:51.997Z",
       "url": "https://jobs.ashbyhq.com/ascertain/e2b09339-b7cb-42d1-a666-68908329ceb8"
     },
     {
@@ -115,7 +115,7 @@
       "nextAction": "作为 12–18 个月目标保留；先通过桥梁岗和公开旗舰项目建立可验证工程经历。",
       "needsTeresa": false,
       "live": false,
-      "lastVerified": "2026-10-28T20:03:53.431Z",
+      "lastVerified": "2026-10-29T20:03:51.997Z",
       "url": "https://jobs.lever.co/curai/a5e85c45-912f-425a-8955-a52153c3d077"
     },
     {
@@ -140,7 +140,7 @@
       "nextAction": "人工打开官方页面，确认仍在招聘并完成专属分析。",
       "needsTeresa": false,
       "live": true,
-      "lastVerified": "2026-10-28T20:03:53.431Z",
+      "lastVerified": "2026-10-29T20:03:51.997Z",
       "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4855836101"
     },
     {
@@ -165,8 +165,83 @@
       "nextAction": "人工打开官方页面，确认仍在招聘并完成专属分析。",
       "needsTeresa": false,
       "live": false,
-      "lastVerified": "2026-10-28T20:03:53.431Z",
+      "lastVerified": "2026-10-29T20:03:51.997Z",
       "url": "https://jobs.lever.co/curai/7d811a2b-31b8-453f-94db-ff456ffd0376"
+    },
+    {
+      "id": "discovered-aHR0cHM6Ly9qb2It",
+      "company": "Prolific",
+      "title": "Clinical Research Physician - AI Research Participants - United States (Remote)",
+      "location": "Remote; United States",
+      "employmentType": "待核验",
+      "compensation": "未披露 / 待核验",
+      "applicationStatus": "新发现",
+      "lane": "now",
+      "fitScore": 50,
+      "fitLabel": "待人工分析",
+      "roleSummary": "每日官方招聘板扫描发现；尚未完成 Teresa 专属匹配分析。",
+      "advantages": [
+        "标题和描述同时包含医疗/临床与 AI 关键词"
+      ],
+      "limitations": [
+        "尚未人工复核资格、待遇和地点"
+      ],
+      "careerValue": "完成岗位全文核验后再判断；目前不自动申请。",
+      "nextAction": "人工打开官方页面，确认仍在招聘并完成专属分析。",
+      "needsTeresa": false,
+      "live": true,
+      "lastVerified": "2026-10-29T20:03:51.997Z",
+      "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5020542101"
+    },
+    {
+      "id": "discovered-aHR0cHM6Ly9qb2It",
+      "company": "Prolific",
+      "title": "International Medical Graduate (IMG) Physician - AI Research Participants - United States (Remote)",
+      "location": "Remote; United States",
+      "employmentType": "待核验",
+      "compensation": "未披露 / 待核验",
+      "applicationStatus": "新发现",
+      "lane": "now",
+      "fitScore": 50,
+      "fitLabel": "待人工分析",
+      "roleSummary": "每日官方招聘板扫描发现；尚未完成 Teresa 专属匹配分析。",
+      "advantages": [
+        "标题和描述同时包含医疗/临床与 AI 关键词"
+      ],
+      "limitations": [
+        "尚未人工复核资格、待遇和地点"
+      ],
+      "careerValue": "完成岗位全文核验后再判断；目前不自动申请。",
+      "nextAction": "人工打开官方页面，确认仍在招聘并完成专属分析。",
+      "needsTeresa": false,
+      "live": true,
+      "lastVerified": "2026-10-29T20:03:51.997Z",
+      "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5020496101"
+    },
+    {
+      "id": "discovered-aHR0cHM6Ly9qb2It",
+      "company": "Prolific",
+      "title": "Non-Clinical Physician - AI Research Participants - United States (Remote)",
+      "location": "Remote; United States",
+      "employmentType": "待核验",
+      "compensation": "未披露 / 待核验",
+      "applicationStatus": "新发现",
+      "lane": "now",
+      "fitScore": 50,
+      "fitLabel": "待人工分析",
+      "roleSummary": "每日官方招聘板扫描发现；尚未完成 Teresa 专属匹配分析。",
+      "advantages": [
+        "标题和描述同时包含医疗/临床与 AI 关键词"
+      ],
+      "limitations": [
+        "尚未人工复核资格、待遇和地点"
+      ],
+      "careerValue": "完成岗位全文核验后再判断；目前不自动申请。",
+      "nextAction": "人工打开官方页面，确认仍在招聘并完成专属分析。",
+      "needsTeresa": false,
+      "live": true,
+      "lastVerified": "2026-10-29T20:03:51.997Z",
+      "url": "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5020418101"
     }
   ]
 }
